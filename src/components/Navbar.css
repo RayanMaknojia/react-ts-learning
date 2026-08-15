@@ -1,0 +1,8 @@
+/* Scoped, in spirit, to Navbar.tsx — Vite doesn't enforce that for plain
+   .css imports (it's all global CSS under the hood), but keeping one CSS
+   file per component keeps things easy to find. */
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
