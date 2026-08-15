@@ -1,0 +1,10 @@
+/* Global, app-wide styles only. Everything component-specific lives in
+   its own <ComponentName>.css file next to that component. */
+
+body {
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+code {
+  font-size: 0.9em;
+}
