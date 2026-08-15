@@ -1,0 +1,8 @@
+.cheat-block {
+  background-color: var(--bs-tertiary-bg);
+  border: 1px solid var(--bs-border-color);
+  border-radius: 0.375rem;
+  padding: 0.9rem 1rem;
+  font-size: 0.85rem;
+  overflow-x: auto;
+}
